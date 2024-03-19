@@ -1,4 +1,4 @@
-A fun little commandline calculator
+A fun little commandline calculator.
 
 Example usage
 "node calculator.js 5 + 5"
